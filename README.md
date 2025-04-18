@@ -1,2 +1,4 @@
 # shopping-cart-redux
-fully operational shopping cart where you can add or remove items from more than 20 choices
+fully operational shopping cart where you can add and remove items from over 20 choices.
+used the concept of Redux over context api for better data handling
+
